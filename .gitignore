@@ -1,0 +1,16 @@
+# Data files
+*.zip
+*.csv
+*.html
+*.pkl
+*.xls
+*.xlsx
+*.pdf
+*.json
+
+
+
+# History files
+/.ipynb_checkpoints
+
+
